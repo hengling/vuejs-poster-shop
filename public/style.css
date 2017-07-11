@@ -229,3 +229,7 @@ h1 {
 .cart ul .cart-item button {
     margin-right: 3px;
 }
+
+.hasError {
+    border: 3px solid #F08080 !important;
+}
